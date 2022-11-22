@@ -1,0 +1,18 @@
+﻿1CV8LOG(ver 2.0)
+90e53fb9-b11c-4414-aa2a-9cab4e53e69c
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"45-1",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,3c01c115-fb01-4cd6-8c3f-3be40b592432,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",7},
+{4,"_$PerformError$_",8},
+{3,"BackgroundJob",3}
